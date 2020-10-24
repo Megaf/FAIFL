@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg4640"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="faifl_logo.svg">
+  <title
+     id="title5214">Free As In Freedom License Logo/Icon</title>
+  <defs
+     id="defs4634" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="1536.8233"
+     inkscape:cy="1364.3464"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="2048"
+     inkscape:window-height="1106"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4637">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Free As In Freedom License Logo/Icon</dc:title>
+        <dc:date>24/10/2020</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Megaf - https://github.com/Megaf/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="https://raw.githubusercontent.com/Megaf/FAIFL/main/LICENSE.txt" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright (C) 2020 Megaf - https://github.com/Megaf/</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>FAIFL</rdf:li>
+            <rdf:li>license</rdf:li>
+            <rdf:li>open source</rdf:li>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>An Open Source and Permissive License That is closely related to WTFPL and Public Domain Licenses.</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-229.26665)">
+    <g
+       id="g5212"
+       transform="matrix(0.11973588,0,0,0.11973588,51.562275,242.73296)">
+      <circle
+         style="opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.40930712;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="circle5201"
+         cx="-147.78868"
+         cy="170.37798"
+         r="282.84476" />
+      <circle
+         r="278.56845"
+         cy="170.37798"
+         cx="-147.78868"
+         id="path5185"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.38799989;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33854437;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="circle5187"
+         cx="-147.78868"
+         cy="170.37798"
+         r="268.64282" />
+      <text
+         id="text5191"
+         y="242.31236"
+         x="-148.84068"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:184.21096802px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.60527468"
+         xml:space="preserve"><tspan
+           style="stroke-width:4.60527468"
+           y="242.31236"
+           x="-148.8407"
+           id="tspan5189"
+           sodipodi:role="line">FAIFL</tspan></text>
+      <text
+         id="text5195"
+         y="329.93597"
+         x="-146.89764"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.94172287px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.07354307"
+         xml:space="preserve"><tspan
+           style="stroke-width:1.07354307"
+           y="329.93597"
+           x="-146.89763"
+           id="tspan5193"
+           sodipodi:role="line">Free As In Freedom</tspan></text>
+      <text
+         id="text5199"
+         y="368.46085"
+         x="-149.0887"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.40140152px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.08503497"
+         xml:space="preserve"><tspan
+           style="stroke-width:1.08503497"
+           y="368.46085"
+           x="-149.0887"
+           id="tspan5197"
+           sodipodi:role="line">License</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.38800001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect5315"
+       width="325.12003"
+       height="162.56"
+       x="151.63564"
+       y="112.8003"
+       inkscape:export-xdpi="100.00001"
+       inkscape:export-ydpi="100.00001" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.38799989;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect5311"
+       width="325.12"
+       height="162.56"
+       x="151.63564"
+       y="112.8003"
+       inkscape:export-xdpi="100.00001"
+       inkscape:export-ydpi="100.00001" />
+    <g
+       id="g5386">
+      <rect
+         style="opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14069986;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect5313"
+         width="287.70227"
+         height="124.07319"
+         x="170.34451"
+         y="132.0437"
+         inkscape:export-xdpi="100.00001"
+         inkscape:export-ydpi="100.00001" />
+      <g
+         id="g5363"
+         inkscape:export-xdpi="100.00001"
+         inkscape:export-ydpi="100.00001">
+        <g
+           id="g5212-6"
+           transform="matrix(0.06038686,0,0,0.06038686,273.12856,151.22473)">
+          <circle
+             style="opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.40930712;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="circle5201-7"
+             cx="-147.78868"
+             cy="170.37798"
+             r="282.84476" />
+          <circle
+             r="278.56845"
+             cy="170.37798"
+             cx="-147.78868"
+             id="path5185-3"
+             style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.38799989;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+          <circle
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33854437;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="circle5187-6"
+             cx="-147.78868"
+             cy="170.37798"
+             r="268.64282" />
+          <text
+             id="text5191-0"
+             y="242.31236"
+             x="-148.84068"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:184.21096802px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.60527468"
+             xml:space="preserve"><tspan
+               style="stroke-width:4.60527468"
+               y="242.31236"
+               x="-148.8407"
+               id="tspan5189-2"
+               sodipodi:role="line">FAIFL</tspan></text>
+          <text
+             id="text5195-6"
+             y="329.93597"
+             x="-146.89764"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.94172287px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.07354307"
+             xml:space="preserve"><tspan
+               style="stroke-width:1.07354307"
+               y="329.93597"
+               x="-146.89763"
+               id="tspan5193-9"
+               sodipodi:role="line">Free As In Freedom</tspan></text>
+          <text
+             id="text5199-3"
+             y="368.46085"
+             x="-149.0887"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.40140152px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.08503497"
+             xml:space="preserve"><tspan
+               style="stroke-width:1.08503497"
+               y="368.46085"
+               x="-149.0887"
+               id="tspan5197-0"
+               sodipodi:role="line">License</tspan></text>
+        </g>
+        <g
+           id="g5342">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.92479706px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84811997"
+             x="334.50418"
+             y="175.87709"
+             id="text5191-0-4"><tspan
+               sodipodi:role="line"
+               id="tspan5189-2-0"
+               x="334.50418"
+               y="175.87709"
+               style="stroke-width:0.84811997">FAIFL</tspan></text>
+          <g
+             id="g5332">
+            <text
+               id="text5195-7"
+               y="204.68837"
+               x="314.40955"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.09938622px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40248457"
+               xml:space="preserve"><tspan
+                 style="stroke-width:0.40248457"
+                 y="204.68837"
+                 x="314.40955"
+                 id="tspan5193-6"
+                 sodipodi:role="line">Free As In Freedom License</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.04170132px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22604254"
+               x="314.35513"
+               y="227.2352"
+               id="text5319"><tspan
+                 sodipodi:role="line"
+                 x="314.35513"
+                 y="227.2352"
+                 style="stroke-width:0.22604254"
+                 id="tspan5321">An Open Source and Permissive License</tspan><tspan
+                 sodipodi:role="line"
+                 x="314.35513"
+                 y="238.53732"
+                 style="stroke-width:0.22604254"
+                 id="tspan5325">That is closely related to WTFPL and Public Domain Licenses.</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
